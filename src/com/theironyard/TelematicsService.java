@@ -2,7 +2,6 @@ package com.theironyard;
 
 public class TelematicsService {
 
-    public void report(VehicleInfo, vehicleInfo) {
-
+    public static void report(VehicleInfo, vehicleInfo) {
     }
 }
